@@ -1,5 +1,3 @@
-I can do this all day!
-
 
 ![](https://github-readme-stats.vercel.app/api?username=PR-1301&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=PR-1301&theme=dark&hide_border=false)<br/>
